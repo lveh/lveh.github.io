@@ -114,7 +114,7 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 # - type: git
-  tyoe: git
+  type: git
   repo: https://github.com/lveh/lveh.github.io.git
     # github:  https://github.com/lveh/lveh.github.io.git
     # coding: https://git.coding.net/hwsun/hwsun.git
