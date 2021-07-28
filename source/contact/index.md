@@ -12,13 +12,13 @@ layout: "contact"
 
 ## 友链
 ---
-洪卫の友链信息
+吕恩辉の友链信息
 
-博客名称: 洪卫の博客
+博客名称: 吕恩辉の博客
 
-博客网址: https://sunhwee.com
+博客网址: lveh.github.io
 
-博客头像: http://sunhwee.com/hwsun.jpg
+博客头像: 
 
 博客介绍: UESTC  CVer！
 

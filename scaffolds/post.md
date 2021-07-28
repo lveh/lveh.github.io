@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-author: 洪卫
+author: 吕恩辉
 img: 
 coverImg: 
 top: false

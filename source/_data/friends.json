@@ -1,16 +1,10 @@
 [
     {
-	    "avatar": "/medias/avatars/hwsun.jpg",
-	    "name": "洪卫の博客",
+	    "avatar": "",
+	    "name": "吕恩辉の博客",
 	    "introduction": "UESTC CVer",
-	    "url": "http://sunhwee.com",
+	    "url": "lveh.github.io",
 	    "title": "偷看一下"
-    },{
-        "name": "IVIPC",
-        "url": "http://ivipc.uestc.edu.cn/",
-        "title": "访问主页",
-        "introduction": "UESTC智能视觉信息处理与通信实验室欢迎您的加入！",
-        "avatar": "/medias/avatars/ivipc.png"
     },{
         "name": "Blinkfox",
         "url": "https://blinkfox.github.io",
