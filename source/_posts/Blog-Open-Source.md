@@ -1,7 +1,7 @@
 ---
 title: 博客开源
 date: 2019-08-27 11:41:03
-author: 洪卫
+author: 吕恩辉
 img: 
 coverImg: /medias/banner/0.jpg
 top: true
@@ -95,7 +95,7 @@ password:
 <escape>
 <table>
   <tr>
-    <td><img width="100" src="https://sunhwee.com/medias/reward/alipay.bmp" ></td>    <td><img width="100" src="https://sunhwee.com/medias/reward/wechat.bmp" ></td>    <td><img width="100" src="https://sunhwee.com/medias/reward/zan.png" ></td>   
+    <td><img width="100" src="https://github.com/lveh/lveh.github.io/medias/reward/alipay.bmp" ></td>  
   </tr>
 </table>
 </escape>
